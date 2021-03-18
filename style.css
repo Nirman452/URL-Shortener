@@ -1,0 +1,55 @@
+ul{
+    background: rgba(190, 211, 224, 0.884);
+    margin: 2px;
+    
+    }
+.clicks{
+    height:200px;
+    width:50%;
+    overflow:hidden; 
+    overflow-y:scroll;
+    background: rgb(198, 198, 223)204, 204, 230);
+    margin: 6px;
+    border: 0.5px solid;
+    box-shadow: 0 0 4px rgb(59, 59, 59);
+}
+
+h1 {
+    backroung: red;
+    padding-left: 220px;
+}
+
+#wrapper{
+    background-color: rgb(226, 233, 240);
+    max-width: 650px;
+    height: 500px;
+    margin: auto;
+    padding: 16px;
+    border: 0.5px solid;
+    box-shadow: 0 0 6px rgb(121, 121, 121);
+    border-radius: 0.5%;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.message{
+    font-size: larger;
+}
+
+#input{
+    width: 500px;
+    height: 30px;
+    background-color: rgba(207, 223, 223, 0.788);
+    border: 0.2px solid;
+    box-shadow: 0 0 4px rgb(148, 150, 150);
+    margin-bottom: 5px;
+}
+
+#submit{
+    height: 33px;
+    border: 0.5px solid;
+    box-shadow: 0 0 2px rgb(59, 59, 59);
+    margin: 0px;
+}
